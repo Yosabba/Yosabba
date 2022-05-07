@@ -1,5 +1,4 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello there! I’m Dominic
-- 🏢 I'm currently working at a web agency
 - 👀 I focus on Front End Development
 - 🌱 I’m currently learning Full-stack Development
 - 📫 Best way to reach me is from my [Portfolio](https://fsdevdom.com)
