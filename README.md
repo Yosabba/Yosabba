@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> Hi, I’m Dominic
+# 👋 Hi, I’m Dominic
 - 👀 I focus on Front End Development
 - 🌱 I’m currently learning Full-stack Development
 - 📫 Best way to reach me is from my Portfolio
