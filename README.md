@@ -5,7 +5,7 @@
 
 ## 📊 Github Stats
 
-![Dominic's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yosabba&bg_color=f5dd90,586ba4,324376&text_color=eff1f3&title_color=58a6ff&icon_color=58a6ff&layout=compact)
+![Dominic's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yosabba&bg_color=f5dd90,586ba4,324376&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff&layout=compact)
 
 
 ## 🧰 ToolBox
