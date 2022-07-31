@@ -1,12 +1,6 @@
-# 👋 Hi, I’m Dominic
-- 👀 I focus on Front End Development
-- 🌱 I’m currently learning Full-stack Development
-- 📫 Best way to reach me is from my Portfolio
-
-## 📊 Github Stats
+# 📊 Github Stats
 
 ![Dominic's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yosabba&bg_color=f5dd90,586ba4,324376&text_color=ffffff&title_color=ffffff&icon_color=58a6ff&layout=compact)
-
 
 ## 🧰 ToolBox
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img 
